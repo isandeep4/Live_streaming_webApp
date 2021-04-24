@@ -1,0 +1,10 @@
+flask
+flask_mysqldb
+MySQLdb
+opencv-python
+face_recognition
+windsound
+numpy
+argparse
+threading
+imutils
